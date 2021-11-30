@@ -11,7 +11,7 @@ export default {
   programming: "programmation",
   horrorMovies: "films d'horreur",
   videoGames: "jeux vidéos",
-  school: "SUP'Internet",
+  citio: "CITiO",
   greetings: "Salut, Moi c'est Ivan 🖖.",
   hobbies:
     "J'adore la {programming} 👨‍💻, les {horror_movies} 🧟🔪 et les {video_games} 🎮.",

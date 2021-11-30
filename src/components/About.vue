@@ -32,14 +32,14 @@
             >{{ $t("videoGames") }}</a>
           </i18n>
           <br />
-          <i18n path="studies" tag="p">
+          <i18n path="currentJob" tag="p">
             <a
-              place="school"
+              place="job"
               class="link"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://supinternet.fr"
-            >{{ $t("school") }}</a>
+              href="https://cit.io"
+            >{{ $t("citio") }}</a>
           </i18n>
         </section>
       </div>
