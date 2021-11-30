@@ -15,7 +15,7 @@ export default {
   greetings: "Hi, I'm Ivan 🖖🏻.",
   hobbies:
     "I love {programming} 👨🏻‍💻, {horror_movies} 🧟🔪 and {video_games} 🎮.",
-  currentJob: "I'm currently a Frontend developer at {job} 🏫",
+  currentJob: "I'm currently a Frontend developer at {job} 🚌",
   resumeButton: "my resume",
   resumeLink: `${ASSETS_BASE_URL}/resume.pdf`
 };
