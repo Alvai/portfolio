@@ -11,11 +11,11 @@ export default {
   programming: "programmation",
   horrorMovies: "films d'horreur",
   videoGames: "jeux vidéos",
-  school: "SUP'Internet",
+  citio: "CITiO",
   greetings: "Salut, Moi c'est Ivan 🖖.",
   hobbies:
     "J'adore la {programming} 👨‍💻, les {horror_movies} 🧟🔪 et les {video_games} 🎮.",
-  studies: "Je suis actuellement Étudiant à {school} 🏫",
+  currentJob: "Je suis actuellement Développeur Frontend à {job} 🚌",
   resumeButton: "mon CV",
   resumeLink: `${ASSETS_BASE_URL}/cv.pdf`
 };
