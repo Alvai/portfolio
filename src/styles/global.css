@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --color-alvai-blue-50: #EBF4FD;
+  --color-alvai-blue-100: #D7E9FB;
+  --color-alvai-blue-200: #AFD3F7;
+  --color-alvai-blue-300: #87BDF3;
+  --color-alvai-blue-400: #5FA7EF;
+  --color-alvai-blue-500: #3C91E6;
+  --color-alvai-blue-600: #1B74D1;
+  --color-alvai-blue-700: #1459A0;
+  --color-alvai-blue-800: #0D3F70;
+  --color-alvai-blue-900: #06243F;
+
+  --color-alvai-dark-50: #EEF2F5;
+  --color-alvai-dark-100: #DDE5EB;
+  --color-alvai-dark-200: #BBCBD7;
+  --color-alvai-dark-300: #99B1C3;
+  --color-alvai-dark-400: #7797AF;
+  --color-alvai-dark-500: #557D9B;
+  --color-alvai-dark-600: #426380;
+  --color-alvai-dark-700: #2C3E50;
+  --color-alvai-dark-800: #1A2530;
+  --color-alvai-dark-900: #080C10;
+
+  --color-alvai-rose-50: #FFF0F1;
+  --color-alvai-rose-100: #FFE1E3;
+  --color-alvai-rose-200: #FFC3C7;
+  --color-alvai-rose-300: #FFA5AB;
+  --color-alvai-rose-400: #FB8790;
+  --color-alvai-rose-500: #F97079;
+  --color-alvai-rose-600: #F54854;
+  --color-alvai-rose-700: #E41D2A;
+  --color-alvai-rose-800: #B31520;
+  --color-alvai-rose-900: #820D16;
+
+  --color-alvai-yellow-50: #FFF9EC;
+  --color-alvai-yellow-100: #FFF3D9;
+  --color-alvai-yellow-200: #FFE7B3;
+  --color-alvai-yellow-300: #FFDB8C;
+  --color-alvai-yellow-400: #FFD975;
+  --color-alvai-yellow-500: #FFCD4D;
+  --color-alvai-yellow-600: #FFC126;
+  --color-alvai-yellow-700: #E6A800;
+  --color-alvai-yellow-800: #B38300;
+  --color-alvai-yellow-900: #805E00;
+
+  --color-alvai-snow-50: #FFFFFF;
+  --color-alvai-snow-100: #FEFEFE;
+  --color-alvai-snow-200: #FDFDFD;
+  --color-alvai-snow-300: #FCFCFC;
+  --color-alvai-snow-400: #FAFAFA;
+  --color-alvai-snow-500: #F9F9F9;
+  --color-alvai-snow-600: #E8E8E8;
+  --color-alvai-snow-700: #D7D7D7;
+  --color-alvai-snow-800: #C6C6C6;
+  --color-alvai-snow-900: #B5B5B5;
+}
