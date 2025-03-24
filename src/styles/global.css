@@ -1,6 +1,12 @@
 @import "tailwindcss";
 
 @theme {
+  --color-alvai-blue: #3C91E6;
+  --color-alvai-dark: #2C3E50;
+  --color-alvai-rose: #F97079;
+  --color-alvai-yellow: #FFD975;
+  --color-alvai-snow: #F9F9F9;
+  
   --color-alvai-blue-50: #EBF4FD;
   --color-alvai-blue-100: #D7E9FB;
   --color-alvai-blue-200: #AFD3F7;
